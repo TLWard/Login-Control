@@ -4,7 +4,7 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-A React Login Control usiing React, Bootstrap, and Material-ui
+A reusable Login Control using React, Bootstrap, and Material-ui
 
 ## Usage: 
 (1) Install Material-UI: npm install @material-ui/core
